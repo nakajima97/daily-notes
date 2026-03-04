@@ -1,0 +1,5 @@
+# Ignore all files in notes directory
+notes/*
+
+# But keep the directory structure
+!notes/.gitkeep
